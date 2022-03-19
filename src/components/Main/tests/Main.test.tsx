@@ -1,5 +1,5 @@
 import { render, screen } from '@testing-library/react';
-import { Main } from './Main';
+import { Main } from '../Main';
 
 describe('<Main />', () => {
 	it('deve_renderizar_o_heading', () => {
